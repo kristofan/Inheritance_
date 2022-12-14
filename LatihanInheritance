@@ -1,0 +1,15 @@
+run:
+
+Contoh Program Pewarisan
+
+Superclass PersegiPanjang
+ Panjang : 6
+ Lebar : 5
+ Luas :30
+
+Subclass Balok
+ Panjang : 4
+ Lebar : 3
+ Tinggi : 5
+ Volume : 60
+BUILD SUCCESSFUL (total time: 0 seconds)
